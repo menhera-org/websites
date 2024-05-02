@@ -1,0 +1,8 @@
+{
+  "type": "menhera_website",
+  "source": {
+    "type": "github",
+    "repo": "menhera-org/website-corp",
+    "branch": "main"
+  }
+}
